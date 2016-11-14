@@ -1,1 +1,30 @@
-/* Pon tu código css aqui */
+   
+div {
+    width:100px;
+    height:100px;
+    float:left;
+    
+}
+.contenedor {
+    overflow:;
+    height:1000px;
+    width:100px;
+
+    
+}
+.clearfix.contenedor{
+    overflow:inherit;
+    width:1000px;
+    height: 100px;
+}
+.caja1{
+ background: yellow;   
+}
+.caja2{
+ background: #006cff;   
+}
+.caja3{
+ background: #e02181;   
+}
+
+
