@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+<link rel="stylesheet" href="css/main.css">
+	</head>
+	<body>
+		
+        <body>
+   <hi>indice</hi> 
+   <ul>
+       <li><a href="parte1/index.html"></a></li>
+       <li><a href="parte2/index.html"></a></li>
+       <li><a href="parte3/index.html"></a></li>
+       <li><a href="parte4/index.html"></a></li>
+   </ul>
+</body>
+</html>
+	</body>
+</html>
